@@ -1,1 +1,1 @@
-currently on https://reactjs.org/tutorial/tutorial.html#adding-time-travel
+currently on https://beta.reactjs.org/learn/describing-the-ui
